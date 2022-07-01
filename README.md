@@ -1,5 +1,5 @@
 # Hi 👋 I'm Isabel.
-I have reactly enrolled in the Get Coding program as it offered the opportunity for me to pursue a job in tech industry.
+I am currently enrolled in the Get Coding program. I am exited for the opporunities it offeres for me to learn and pursue a job in tech industry.
 # 
 -🌱  I have learnt html, css, vanilla javascript\
 -🌱  I am now learning ReactJS\
