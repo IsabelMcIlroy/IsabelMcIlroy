@@ -1,7 +1,10 @@
 *{
-    background-color: #1F0514;
     color: #D8CBC7;
     font-family: 'Poppins', sans-serif;
+}
+body{
+    background-image: url(images/IMG_9263.JPG);
+    background-size: cover;
 }
 .center{
     justify-content: center;
@@ -30,22 +33,24 @@ h2{
 }
 .links{
     margin: 4px;
-    height: 25px;
-    padding: 4px;
+    height: 15px;
+    padding: 8px;
     border: 1px solid black;
-    border-radius: 25%;
+    border-radius: 35%;
+    background-color: #D8CBC7;
 }
 .links:hover{
-    background-color: #D8CBC7;
+    background-color: #F55308;
 }
 .buttons{
     text-align: center;
 }
 button{
+    color: #D8CBC7;
     margin: -3px;
     padding: 8px 16px;
+    background-color: transparent;
 }
 button:hover{
-    background-color: #D8CBC7;
-    color: #1F0514;
+    background-color: #1F0514;
 }
