@@ -13,15 +13,11 @@
     display: flex;
     align-items: center;
 }
+.isabel{
+    width: 25vw;
+}
 .text{
     text-align: center;
-}
-.buttons{
-    text-align: center;
-}
-button{
-    margin: -3px;
-    padding: 8px 16px;
 }
 h1{
     color: #F55308;
@@ -32,6 +28,24 @@ h1, h3{
 h2{
     margin: 16px;
 }
-.isabel{
-    width: 25vw;
+.links{
+    margin: 4px;
+    height: 25px;
+    padding: 4px;
+    border: 1px solid black;
+    border-radius: 25%;
+}
+.links:hover{
+    background-color: #D8CBC7;
+}
+.buttons{
+    text-align: center;
+}
+button{
+    margin: -3px;
+    padding: 8px 16px;
+}
+button:hover{
+    background-color: #D8CBC7;
+    color: #1F0514;
 }
