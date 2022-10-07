@@ -1,12 +1,25 @@
 *{
     background-color: #1F0514;
     color: #D8CBC7;
+    font-family: 'Poppins', sans-serif;
 }
-.container{
+.center{
     justify-content: center;
     display: flex;
     align-items: center;
     height: 100vh;
+}
+.text{
+    text-align: center;
+}
+h1{
+    color: #F55308;
+}
+h1, h3{
+    margin: 0;
+}
+h2{
+    margin: 16px;
 }
 .isabel{
     width: 25vw;
