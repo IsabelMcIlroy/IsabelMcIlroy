@@ -5,12 +5,23 @@
 }
 .center{
     justify-content: center;
-    display: flex;
+    display: grid;
     align-items: center;
     height: 100vh;
 }
+.splash{
+    display: flex;
+    align-items: center;
+}
 .text{
     text-align: center;
+}
+.buttons{
+    text-align: center;
+}
+button{
+    margin: -3px;
+    padding: 8px 16px;
 }
 h1{
     color: #F55308;
