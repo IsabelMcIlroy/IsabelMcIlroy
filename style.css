@@ -114,5 +114,11 @@ a{
 /* Main body */
 .mainBody{
     background-color: #1F0514;
-    padding: 36px
+    padding: 24px 0;
+}
+.aboutMe{
+    width: 50vw;
+    background-color: #1F0514;
+    margin: 0 auto;
+    padding: 24px;
 }
