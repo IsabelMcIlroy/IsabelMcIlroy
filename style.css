@@ -60,6 +60,7 @@ h2{
     padding: 8px 16px;
     background-color: transparent;
     border: 1px solid #D8CBC7;
+    text-decoration: none;
 }
 .button:hover{
     background-color: #1F0514;
@@ -116,9 +117,22 @@ a{
     background-color: #1F0514;
     padding: 24px 0;
 }
+hr{
+    width: 90vw;
+    margin-top: 24px;
+}
 .aboutMe{
-    width: 50vw;
-    background-color: #1F0514;
+    width: 60vw;
+    background-color: #D8CBC7;
+    margin: 0 auto;
+    padding: 24px;
+    border-radius: 24px;
+}
+p{
+    color: #1F0514;
+}
+.projects{
+    width: 60vw;
     margin: 0 auto;
     padding: 24px;
 }
