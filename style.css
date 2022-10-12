@@ -74,6 +74,7 @@ a{
     inset: 0 0 auto;
     height: .5rem;
     background-color: #F55308;
+    transform-origin: left;
 }
 
 /* Main body */
