@@ -42,9 +42,8 @@ h2{
 }
 .links{
     margin: 4px;
-    height: 15px;
+    height: 32px;
     padding: 8px;
-    border: 1px solid black;
     border-radius: 35%;
     background-color: #D8CBC7;
 }
