@@ -136,3 +136,106 @@ p{
     margin: 0 auto;
     padding: 24px;
 }
+.project1{
+    background-image: url("./images/projects/Philip.jpg");
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+}
+.project1:hover{
+    background: linear-gradient(rgba(250,250,250, 0.3),
+    rgba(250,250,250, 0.6)), url('./images/projects/Philip.jpg');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.project2{
+    background-image: url("./images/projects/knittingProjectManager.jpg");
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+}
+.project2:hover{
+    background: linear-gradient(rgba(250,250,250, 0.3),
+    rgba(250,250,250, 0.6)), url('./images/projects/knittingProjectManager.jpg');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.project3{
+    background-image: url("./images/projects/SlidingPuzzle.jpg");
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+}
+.project3:hover{
+    background: linear-gradient(rgba(250,250,250, 0.3),
+    rgba(250,250,250, 0.6)), url('./images/projects/SlidingPuzzle.jpg');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.project4{
+    background-image: url("./images/projects/guessingGame.jpg");
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+}
+.project4:hover{
+    background: linear-gradient(rgba(250,250,250, 0.3),
+    rgba(250,250,250, 0.6)), url('./images/projects/guessingGame.jpg');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.project5{
+    background-image: url("./images/projects/Isabel.jpg");
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+}
+.project5:hover{
+    background: linear-gradient(rgba(250,250,250, 0.3),
+    rgba(250,250,250, 0.6)), url('./images/projects/Isabel.jpg');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.project6{
+    background-image: url("./images/projects/woodMovementCalc.jpg");
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+}
+.project6:hover{
+    background: linear-gradient(rgba(250,250,250, 0.3),
+    rgba(250,250,250, 0.6)), url('./images/projects/woodMovementCalc.jpg');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.hide{
+    opacity: 0;
+    color: #1F0514;
+}
+.project:hover .hide{
+    opacity: 1;
+}
