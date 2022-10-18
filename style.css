@@ -234,7 +234,6 @@ p{
 }
 .hide{
     opacity: 0;
-    color: #1F0514;
 }
 .project:hover .hide{
     opacity: 1;
