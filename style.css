@@ -134,7 +134,7 @@ p{
 .projects{
     width: 60vw;
     margin: 0 auto;
-    padding: 24px;
+    padding: 36px 24px 24px 24px;
 }
 .project1{
     background-image: url("./images/projects/Philip.jpg");
