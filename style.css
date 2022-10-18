@@ -116,10 +116,10 @@ a{
     background-color: #1F0514;
     padding: 24px 0;
 }
-hr{
-    width: 90vw;
-    margin-top: 24px;
+p{
+    color: #1F0514;
 }
+/* about */
 .aboutMe{
     width: 60vw;
     background-color: #D8CBC7;
@@ -127,9 +127,7 @@ hr{
     padding: 24px;
     border-radius: 24px;
 }
-p{
-    color: #1F0514;
-}
+/* projects */
 .projects{
     width: 60vw;
     margin: 0 auto;
@@ -237,3 +235,5 @@ p{
 .project:hover .hide{
     opacity: 1;
 }
+/* school */
+/* work */
