@@ -267,7 +267,7 @@ h5{
 }
 
 @media screen and (min-width: 500px){
-    .aboutMe, .experience, .projects{
+    .aboutMe, .experience, .projects, .experienceExtended{
         width: 60vw;
     }
 }
