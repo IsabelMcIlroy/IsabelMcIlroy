@@ -24,6 +24,7 @@
     height: 150px;
     width: 150px;
     background-image: url(./images/Isabel.svg);
+    background-repeat: no-repeat;
 }
 .isabel:hover{
     height: 150px;
