@@ -119,6 +119,9 @@ a{
     background-color: #1F0514;
     padding: 24px 0;
 }
+.sectionTitle{
+    margin: 24px;
+}
 p{
     color: #1F0514;
 }
