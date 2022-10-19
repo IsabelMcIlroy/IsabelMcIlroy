@@ -2,8 +2,9 @@
     color: #D8CBC7;
     font-family: 'Poppins', sans-serif;
 }
-body{
+.body{
     margin: 0;
+    background-color: #1F0514;
 }
 /* Top splash bit */
 .center{
@@ -123,14 +124,14 @@ p{
 .aboutMe{
     width: 60vw;
     background-color: #D8CBC7;
-    margin: 0 auto;
+    margin: 24px auto;
     padding: 24px;
     border-radius: 24px;
 }
 /* projects */
 .projects{
     width: 60vw;
-    margin: 0 auto;
+    margin: 24px auto;
     padding: 36px 24px 24px 24px;
 }
 .project1{
@@ -235,5 +236,7 @@ p{
 .project:hover .hide{
     opacity: 1;
 }
-/* school */
-/* work */
+
+.footer{
+    background-color: #1F0514;
+}
