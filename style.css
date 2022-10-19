@@ -5,6 +5,7 @@
 .body{
     margin: 0;
     background-color: #1F0514;
+    text-align: center;
 }
 /* Top splash bit */
 .center{
@@ -90,7 +91,7 @@ a{
     opacity: 0;
     filter: blur(5px);
     transform: translateX(-100%);
-    transition: all 1.5s;
+    transition: all 2s;
 }
 .showX{
     opacity: 1;
@@ -120,13 +121,36 @@ a{
 p{
     color: #1F0514;
 }
-/* about */
+/* about and experiences */
 .aboutMe{
+    width: 60vw;
+    margin: 24px auto;
+    padding: 24px;
+    border-radius: 24px;
+}
+.aboutMeText{
+    color: #D8CBC7;
+}
+.experience{
     width: 60vw;
     background-color: #D8CBC7;
     margin: 24px auto;
     padding: 24px;
     border-radius: 24px;
+}
+.experienceExtended{
+    width: 60vw;
+    margin: 24px auto;
+    padding: 24px;
+}
+h5{
+    color: #F55308;
+}
+.experienceCards{
+    background-color: transparent;
+}
+.card-text{
+    color: #D8CBC7;
 }
 /* projects */
 .projects{
