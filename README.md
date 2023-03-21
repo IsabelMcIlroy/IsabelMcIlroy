@@ -2,7 +2,7 @@
 I now a Get Coding graduate!. I am exited for the opporunities it will offer for me to learn and pursue a job in tech industry.
 # 
 -🌱  I have learnt html, css, javascript, ReactJS, Node.js, express, SQL (MySQL/PlanetScale) and CI/CD testing\
--🌱  I am learning solid.js and typescript\
+-🌱  I am now learning tailwind, solid.js and typescript\
 \
 -🧑‍💻  I am now working as a contracted part-time Full Stack Developer with TechNL\
 -🧑‍💻  I am volunteering as a Front End Developer for a local bakery\
