@@ -5,7 +5,8 @@ I now a Get Coding graduate!. I am exited for the opporunities it will offer for
 -🌱  I am now learning tailwind, solid.js and typescript\
 \
 -🧑‍💻  I am now working as a contracted part-time Full Stack Developer with TechNL\
--🧑‍💻  I am volunteering as a Front End Developer for a local bakery\
+-🧑‍💻  I am volunteering as a Front End Developer for a local bakery - CakeyHand\
+-🧑‍💻  I am volunteering as a Full Stack Developer for a local running race - ETC Ultra\
 \
 -💞️  I love being outside either kayaking, running or skiing
 # Connect with me:
