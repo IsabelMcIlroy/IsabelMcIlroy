@@ -4,8 +4,8 @@ I now a Get Coding graduate!. I am exited to continue to learn while pursuing a 
 -🌱  I have learnt html, css, javascript, ReactJS, Node.js, express, SQL (MySQL/PlanetScale) and CI/CD testing\
 -🌱  I am now learning tailwind, solid.js and typescript\
 \
--🧑‍💻  I am now working as a contracted part-time Full Stack Developer with TechNL\
--🧑‍💻  I am volunteering as a Front End Developer for a local bakery - CakeyHand\
+-🧑‍💻  I am working as a Solutions Specialist at ICI Innovations\
+-🧑‍💻  I am working as a part-time Full Stack Developer with TechNL\
 -🧑‍💻  I am volunteering as a Full Stack Developer for a local running race - ETC Ultra\
 \
 -💞️  I love being outside either kayaking, running or skiing
